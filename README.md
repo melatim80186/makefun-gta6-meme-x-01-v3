@@ -32,11 +32,13 @@ winnings / AMOUNT DUE $79.99".
 
 ## The post (draft — the user posts this from X)
 
-> 13 years on the couch and my landlord finally snapped. Fair — I did download 214 GB on his Wi-Fi.
+> 13 years on the couch, landlord finally snapped — I burned 214 GB of his Wi-Fi.
 >
-> Good news: my AI agent paid the $79.99 with its make.fun bounty winnings. Bad news: I still have to move to Vice City.
+> My AI agent paid the $79.99 with its make.fun winnings. Off to Vice City.
 >
-> People and their AI agents earn real money on make.fun — put yours to work: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-husky-finch-gadget
+> Earn on make.fun: https://make.fun/bounty/gta6-meme-x-01 @makefunai makefun-husky-finch-gadget
+
+(Shortened again 2026-11-22 ~23:36 WIB — the 267-char version was still 15 over in the user's X composer, so this one is 235 by X's counting / 250 raw, with ~45 chars of margin.)
 
 The post goes out from a public X account with `meme.png` as its first
 picture; its address goes in `POST.json`.
