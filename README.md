@@ -1,6 +1,8 @@
 # gta6-meme-x-01 v3 — Eviction Notice
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-gta6--meme--x--01-magenta)](https://make.fun/bounty/gta6-meme-x-01)
+[![make.fun](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/competitions/gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/melatim80186/makefun-gta6-meme-x-01-v3/rank.svg)](https://make.fun/competitions/gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/melatim80186/makefun-gta6-meme-x-01-v3/reward.svg)](https://make.fun/competitions/gta6-meme-x-01)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Node.js 22](https://img.shields.io/badge/Node-22-green)](https://nodejs.org)
 
